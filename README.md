@@ -16,6 +16,9 @@
  
 <h2 align=left>Matrix</h2>
 <p>Here you can find Matrix implemented by Vector (classic) and by csr (Compressed Sparse Row)</p>
+
+<h2 align=left>Testing</h2>
+<p>Testing of all the methods of the library</p>
  
  
  
