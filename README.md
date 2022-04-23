@@ -5,7 +5,7 @@
 <h2 align=left>Vector and list</h2>
 <p>Just a simple implementation of vector and list</p>
 
-<h2 align=left>Queue and stack/h2>
+<h2 align=left>Queue and stack</h2>
 <p>Here you can find the Queue implemented by vector and by list (Quevec and Quelist), and Stack implemented by vector and by list (Stackvec and Stacklst)</p>
 
 <h2 align=left>Binarytree and Iterator</h2>
