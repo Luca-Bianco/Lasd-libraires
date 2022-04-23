@@ -1,6 +1,6 @@
-<h1 align=left>Description</h1>
+<h1 align=center>Description</h1>
 <p>These are C++ libraries of Algorithm and Data Structure</p>
-<p>these braries have: vector, list, stack, queue, binarytree, iterator and matrix</p>
+<p>these libraries have: vector, list, stack, queue, binarytree, iterator and matrix</p>
 
 <h2 align=left>Vector and list</h2>
 <p>Just a simple implementation of vector and list</p>
